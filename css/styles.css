@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.top-container {
+  background-color: #bae5e5;
+}
+
+.top-cloud:hover {
+  transform: scaleX(-1);
+}
+
+h1 {
+  width: 50%;
+  height: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 95px;
+}
+
+.top-cloud {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 18%;
+  top: 20px;
+}
+
+.bottom-cloud {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin-bottom: 260px;
+  left: 30%;
+}
+
+.mountain {
+  width: 35%;
+  position: relative;
+}
+
+.birds {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  left: 50%;
+}
+
+.middle-container {
+  position: relative;
+}
+
+.person {
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.pleasure {
+  padding-bottom: .5%;
+  padding-top: .5%;
+}
+
+h2 {
+  font-family: 'Cutive Mono', monospace;
+  color: #1eb2a6;
+  font-size: 40px;
+  margin: auto;
+}
+
+p {
+  font-size: 17px;
+}
+
+span {
+  font-weight: bold;
+}
+
+hr {
+  border-style: none;
+  border-top-style: outset;
+  border-color: grey;
+  border-width: 3px;
+  width: 8%;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+}
+
+.lower-container {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+}
+
+.laptop {
+  width: 150px;
+  height: 150px;
+}
+
+.designtwo {
+  font-size: 28px;
+}
+
+.webdev {
+    width: 200px;
+    height: 200px;
+    left: 68%;
+    bottom: 2.5%;
+  }
+
+.designthree {
+    display: inline-block;
+  }
+
+.bottom-container {
+    width: 100%;
+    height: 100%;
+  }
+
+h3 {
+  font-family: 'Cutive Mono', monospace;
+  color: #5b8c85;
+  font-size: 25px;
+}
+
+.btn {
+  font-family: 'Cutive Mono', monospace;
+  background-color: #1eb2a6;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.footernote {
+    position: absolute;
+    display: inline-block;
+    right: 33%;
+    padding-top: 6%;
+  }
